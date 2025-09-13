@@ -1,0 +1,18 @@
+PYTHON VERSION:
+
+Python 3.13.7 ✅
+
+VENV Active:
+
+TRUE ✅
+
+Django Version:
+
+5.2.6 ✅
+
+Runserver STATUS:
+
+Running ✅
+
+
+
